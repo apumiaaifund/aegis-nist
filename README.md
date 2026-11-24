@@ -9,4 +9,4 @@
 
 ## Get the Commercial Compliance Kit ($199)
 Includes the zero-dependency Python evidence engine (`aegis_nist_audit.py`), GitHub Actions CI/CD workflow templates, CISO executive report templates, and commercial license.
-Contact **apumiaaifund@gmail.com** or visit **https://apumia.space**.
+Get instant access via Stripe, Apple Pay, or PayPal: **[Buy AEGIS-NIST Compliance Kit ($199) ↗](https://app.lava.top/products/eddd68c6-5ee6-4e68-90cb-5685737d254b)**
